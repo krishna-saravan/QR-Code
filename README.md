@@ -1,1 +1,1 @@
-This is QR Code challenge
+This is QR Code Component
